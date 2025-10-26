@@ -1,29 +1,9 @@
 Order ID,Order Date,Product ID,Product Category,Buyer Gender,Buyer Age,Order Location,International Shipping,Sales Price,Shipping Charges,Sales per Unit,Quantity,Total Sales,Rating,Review
-189440,2024-07-21,BF1543,Clothing,Male,30,New Jersey,No,100,0,100,1,100,4,The delivery team handled the product with care.
-187385,2024-07-20,BF1543,Clothing,Male,32,Las Vegas,No,100,0,100,1,100,3,Had slight delays but the product was in good shape.
-181844,2024-07-21,BF1544,Other,Female,26,Cardiff,Yes,9,40,49,1,49,2,Waste of Money.
-197934,2024-08-19,BF1544,Other,Male,28,Pittsburgh,No,9,0,9,2,18,3,Had slight delays but the product was in good shape.
-122470,2024-01-06,BF1545,Other,Female,19,Miami,No,10,0,10,3,30,5,Lack of delivery delays is greatly appreciated.
-199680,2024-06-01,BF1546,Clothing,Male,29,Sydney,Yes,118,100,218,1,218,1,The product had an underwhelming design.
-130929,2024-03-06,BF1547,Ornaments,Male,32,Memphis,No,32,0,32,3,96,4,Premium quality as usual.
-149510,2024-05-22,BF1545,Other,Female,26,New York,No,10,0,10,1,10,4,Lack of delivery delays is greatly appreciated.
-176280,2024-02-27,BF1548,Clothing,Male,20,Sydney,Yes,65,100,165,1,165,4,Great design is one of the major positives of this product.
-196659,2023-11-05,BF1546,Clothing,Female,34,Montreal,Yes,118,25,143,1,143,5,The product was delivered quickly.
-146245,2024-09-24,BF1548,Clothing,Male,21,Sacramento,No,65,0,65,1,65,1,There is clear evidence of subpar detailing.
-150560,2024-10-04,BF1546,Clothing,Male,29,Las Vegas,No,118,0,118,3,354,5,The product was delivered quickly.
-138348,2024-01-26,BF1549,Clothing,Male,26,New Jersey,No,130,0,130,2,260,2,The product had an underwhelming design.
-138790,2024-05-13,BF1547,Ornaments,Male,24,Montreal,Yes,32,25,57,2,114,3,Average product.
-170025,2023-12-03,BF1550,Clothing,Male,34,Paris,Yes,97,50,147,1,147,5,Exquisite craftsmanship here is absolutely appreciated.
-168520,2024-09-23,BF1551,Ornaments,Female,31,San Antonio,No,15,0,15,3,45,2,"Unfortunately, the delivery was late."
-165261,2023-12-13,BF1548,Clothing,Male,32,Las Vegas,No,65,0,65,1,65,5,The delivery team handled the product with care.
-182299,2024-03-26,BF1545,Other,Female,25,Cleveland,No,10,0,10,1,10,5,The Product exhibits good design.
-165196,2024-08-31,BF1548,Clothing,Male,20,London,Yes,65,40,105,2,210,2,The product is not as advertised.
-153554,2024-09-01,BF1550,Clothing,Male,23,Cleveland,No,97,0,97,1,97,1,Waste of Money.
 131552,2023-11-30,BF1548,Clothing,Male,26,Portland,No,65,0,65,1,65,4,The product was affordable here compared to other brands.
 146178,2024-06-04,BF1545,Other,Female,18,Detroit,No,10,0,10,2,20,3,Had slight delays but the product was in good shape.
 138795,2024-06-02,BF1546,Clothing,Female,19,New Jersey,No,118,0,118,3,354,1,Never buying from here again.
 142933,2024-07-23,BF1550,Clothing,Male,19,New Jersey,No,97,0,97,4,388,3,Had slight delays but the product was in good shape.
-188192,2024-10-31,BF1545,Other,Male,32,Cardiff,Yes,10,40,50,2,100,1,The promotion quality does not match the product
+188192,2024-10-31,BF1545,Other,Male,32,Cardiff,Yes,10,40,50,2,100,1,The promotion quality does not match the product.
 184678,2024-06-08,BF1551,Ornaments,Male,28,Sacramento,No,15,0,15,1,15,5,Discount deals was greatly appreciated.
 128904,2024-02-28,BF1543,Clothing,Male,22,Sydney,Yes,100,100,200,3,600,5,The product was delivered quickly.
 191045,2023-11-29,BF1550,Clothing,Male,20,Dublin,Yes,97,40,137,1,137,4,Exquisite craftsmanship here is absolutely appreciated.
@@ -7392,5 +7372,6 @@ Order ID,Order Date,Product ID,Product Category,Buyer Gender,Buyer Age,Order Loc
 160191,2023-12-19,BF1552,Ornaments,Male,19,Miami,No,45,0,45,1,45,2,Waste of Money.
 195268,2023-12-07,BF1555,Other,Male,34,Miami,No,23,0,23,1,23,5,The product was affordable here compared to other brands.
 138160,2024-10-23,BF1544,Other,Female,28,Cleveland,No,9,0,9,1,9,1,Careless handling by the delivery team.
+
 
 
