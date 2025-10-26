@@ -12,7 +12,7 @@ Order ID,Order Date,Product ID,Product Category,Buyer Gender,Buyer Age,Order Loc
 146245,2024-09-24,BF1548,Clothing,Male,21,Sacramento,No,65,0,65,1,65,1,There is clear evidence of subpar detailing.
 150560,2024-10-04,BF1546,Clothing,Male,29,Las Vegas,No,118,0,118,3,354,5,The product was delivered quickly.
 138348,2024-01-26,BF1549,Clothing,Male,26,New Jersey,No,130,0,130,2,260,2,The product had an underwhelming design.
-138790,2024-05-13,BF1547,Ornaments,Male,24,Montreal,Yes,32,25,57,2,114,3,Average product
+138790,2024-05-13,BF1547,Ornaments,Male,24,Montreal,Yes,32,25,57,2,114,3,Average product.
 170025,2023-12-03,BF1550,Clothing,Male,34,Paris,Yes,97,50,147,1,147,5,Exquisite craftsmanship here is absolutely appreciated.
 168520,2024-09-23,BF1551,Ornaments,Female,31,San Antonio,No,15,0,15,3,45,2,"Unfortunately, the delivery was late."
 165261,2023-12-13,BF1548,Clothing,Male,32,Las Vegas,No,65,0,65,1,65,5,The delivery team handled the product with care.
@@ -7392,4 +7392,5 @@ Order ID,Order Date,Product ID,Product Category,Buyer Gender,Buyer Age,Order Loc
 160191,2023-12-19,BF1552,Ornaments,Male,19,Miami,No,45,0,45,1,45,2,Waste of Money.
 195268,2023-12-07,BF1555,Other,Male,34,Miami,No,23,0,23,1,23,5,The product was affordable here compared to other brands.
 138160,2024-10-23,BF1544,Other,Female,28,Cleveland,No,9,0,9,1,9,1,Careless handling by the delivery team.
+
 
