@@ -1,32 +1,4 @@
 Order ID,Order Date,Product ID,Product Category,Buyer Gender,Buyer Age,Order Location,International Shipping,Sales Price,Shipping Charges,Sales per Unit,Quantity,Total Sales,Rating,Review
-138790,2024-05-13,BF1547,Ornaments,Male,24,Montreal,Yes,32,25,57,2,114,3,Average product
-170025,2023-12-03,BF1550,Clothing,Male,34,Paris,Yes,97,50,147,1,147,5,Exquisite craftsmanship here is absolutely appreciated.
-168520,2024-09-23,BF1551,Ornaments,Female,31,San Antonio,No,15,0,15,3,45,2,"Unfortunately, the delivery was late."
-165261,2023-12-13,BF1548,Clothing,Male,32,Las Vegas,No,65,0,65,1,65,5,The delivery team handled the product with care.
-182299,2024-03-26,BF1545,Other,Female,25,Cleveland,No,10,0,10,1,10,5,The Product exhibits good design.
-165196,2024-08-31,BF1548,Clothing,Male,20,London,Yes,65,40,105,2,210,2,The product is not as advertised.
-153554,2024-09-01,BF1550,Clothing,Male,23,Cleveland,No,97,0,97,1,97,1,Waste of Money.
-131552,2023-11-30,BF1548,Clothing,Male,26,Portland,No,65,0,65,1,65,4,The product was affordable here compared to other brands.
-146178,2024-06-04,BF1545,Other,Female,18,Detroit,No,10,0,10,2,20,3,Had slight delays but the product was in good shape.
-138795,2024-06-02,BF1546,Clothing,Female,19,New Jersey,No,118,0,118,3,354,1,Never buying from here again.
-142933,2024-07-23,BF1550,Clothing,Male,19,New Jersey,No,97,0,97,4,388,3,Had slight delays but the product was in good shape.
-188192,2024-10-31,BF1545,Other,Male,32,Cardiff,Yes,10,40,50,2,100,1,The promotion quality does not match the product
-184678,2024-06-08,BF1551,Ornaments,Male,28,Sacramento,No,15,0,15,1,15,5,Discount deals was greatly appreciated.
-128904,2024-02-28,BF1543,Clothing,Male,22,Sydney,Yes,100,100,200,3,600,5,The product was delivered quickly.
-191045,2023-11-29,BF1550,Clothing,Male,20,Dublin,Yes,97,40,137,1,137,4,Exquisite craftsmanship here is absolutely appreciated.
-163054,2024-01-16,BF1548,Clothing,Male,30,Glasgow,Yes,65,40,105,4,420,1,Careless handling by the delivery team.
-121078,2023-12-13,BF1545,Other,Female,22,Austin,No,10,0,10,4,40,5,The product was affordable here compared to other brands.
-180876,2024-07-14,BF1544,Other,Male,31,Sacramento,No,9,0,9,1,9,4,Great design is one of the major positives of this product.
-155281,2024-02-26,BF1547,Ornaments,Male,22,Cleveland,No,32,0,32,3,96,5,Incredible detailing was clearly evident.
-183087,2024-02-16,BF1548,Clothing,Male,25,Austin,No,65,0,65,1,65,2,The product had poor quality.
-185910,2024-07-09,BF1548,Clothing,Female,22,Glasgow,Yes,65,40,105,1,105,4,The product had excellent quality.
-165100,2024-10-12,BF1545,Other,Male,29,Dublin,Yes,10,40,50,1,50,5,The Product exhibits good design.
-167831,2024-03-09,BF1547,Ornaments,Male,22,New Jersey,No,32,0,32,1,32,5,The product had excellent quality.
-185069,2024-01-12,BF1544,Other,Male,32,Cleveland,No,9,0,9,1,9,4,The Product exhibits good design.
-153675,2024-05-30,BF1547,Ornaments,Male,31,Cardiff,Yes,32,40,72,5,360,5,Discount deals was greatly appreciated.
-169012,2024-06-10,BF1544,Other,Female,21,New York,No,9,0,9,1,9,2,The promotion quality does not match the product
-185868,2024-01-14,BF1545,Other,Female,18,Pittsburgh,No,10,0,10,1,10,4,Discount deals was greatly appreciated.
-199507,2024-05-10,BF1545,Other,Male,22,Cleveland,No,10,0,10,2,20,3,Average product
 187807,2024-04-21,BF1548,Clothing,Male,20,Pittsburgh,No,65,0,65,1,65,2,Never buying from here again.
 131889,2024-04-17,BF1548,Clothing,Female,19,Montreal,Yes,65,25,90,1,90,4,The product was affordable here compared to other brands.
 191650,2024-07-11,BF1548,Clothing,Male,35,Las Vegas,No,65,0,65,5,325,1,The promotion quality does not match the product
@@ -7379,6 +7351,7 @@ Order ID,Order Date,Product ID,Product Category,Buyer Gender,Buyer Age,Order Loc
 160191,2023-12-19,BF1552,Ornaments,Male,19,Miami,No,45,0,45,1,45,2,Waste of Money.
 195268,2023-12-07,BF1555,Other,Male,34,Miami,No,23,0,23,1,23,5,The product was affordable here compared to other brands.
 138160,2024-10-23,BF1544,Other,Female,28,Cleveland,No,9,0,9,1,9,1,Careless handling by the delivery team.
+
 
 
 
